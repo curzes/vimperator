@@ -1,7 +1,4 @@
 *
 !.gitignore
 !_vimperatorrc
-!vimperator/info
-!vimperator/info/*
-!vimperator/info/default
-!vimperator/info/default/*
+!vimperator/colors/*
