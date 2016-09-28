@@ -1,4 +1,5 @@
 *
 !.gitignore
 !_vimperatorrc
+!vimperator/*
 !vimperator/colors/*
