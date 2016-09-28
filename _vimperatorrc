@@ -1,5 +1,30 @@
-"3.14.0 (created: 2016/06/07 23:58:16)
+set gui=nonavigation
+" set gui=notabs
+colorscheme Black_Slim
 
-source! "C:\\Users\\plague\\_vimperatorrc.local"
+noremap j 5j
+noremap k 10k
 
-" vim: set ft=vimperator:
+map <A-1> 1gt
+map <A-2> 2gt
+map <A-3> 3gt
+map <A-4> 4gt
+map <A-5> 5gt
+map <A-6> 6gt
+map <A-7> 7gt
+map <A-8> 8gt
+map <A-9> 9gt
+map . gt
+map , gT
+
+map <C-a> <Ins><C-a><Ins>
+
+map <A-S-1> :tabmove 0
+map <A-S-2> :tabmove 1
+map <A-S-3> :tabmove 2
+map <A-S-4> :tabmove 3
+map <A-S-5> :tabmove 4
+map <A-S-6> :tabmove 5
+map <A-S-7> :tabmove 6
+map <A-S-8> :tabmove 7
+map <A-S-9> :tabmove 8
